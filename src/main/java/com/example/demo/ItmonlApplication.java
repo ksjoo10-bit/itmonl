@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ItmonlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ItmonlApplication.class, args);
+		SpringApplication.run(ItmonlApplication.class, args); // 테스슽
 	}
 
 }
